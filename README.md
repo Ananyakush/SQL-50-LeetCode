@@ -2,6 +2,8 @@
 Solutions for SQL 50 Study Plan LeetCode -<br>
 https://leetcode.com/studyplan/top-sql-50/
 
+--SELECT--
+
 1757. Recyclable and Low-Fat Products<br>
 https://leetcode.com/problems/recyclable-and-low-fat-products/description/?envType=study-plan-v2&envId=top-sql-50
 
@@ -25,5 +27,16 @@ https://leetcode.com/problems/article-views-i/?envType=study-plan-v2&envId=top-s
 1683. Invalid Tweets
 https://leetcode.com/problems/invalid-tweets?envType=study-plan-v2&envId=top-sql-50
 
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/271d589a-20e1-4bba-a2ef-bc876ccbc4ea)
 
+--BASIC JOINS--
+
+1378. Replace Employee ID With The Unique Identifier<BR>
+https://leetcode.com/problems/replace-employee-id-with-the-unique-identifier/description/?envType=study-plan-v2&envId=top-sql-50
+
+![image](https://github.com/user-attachments/assets/70dd3d02-e2fa-483c-a95b-26285dfac2ff)
+
+1068. Product Sales Analysis I<br>
+https://leetcode.com/problems/product-sales-analysis-i/description/?envType=study-plan-v2&envId=top-sql-50
+
+![Uploading image.png…]()
