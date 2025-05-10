@@ -1,10 +1,10 @@
-![image](https://github.com/user-attachments/assets/0456e32e-1825-4aa4-b145-c6777ad6bb6d)# SQL-50-LeetCode
+# SQL-50-LeetCode
 Solutions for SQL 50 Study Plan LeetCode -<br>
 https://leetcode.com/studyplan/top-sql-50/
 
 --SELECT--
 
-1757. Recyclable and Low-Fat Products<br>
+#1757. Recyclable and Low-Fat Products<br>
 https://leetcode.com/problems/recyclable-and-low-fat-products/description/?envType=study-plan-v2&envId=top-sql-50
 
 ![image](https://github.com/user-attachments/assets/459771f2-5d6d-488a-ac82-64a43aa1008b)
