@@ -1,4 +1,4 @@
-# SQL-50-LeetCode
+![image](https://github.com/user-attachments/assets/0456e32e-1825-4aa4-b145-c6777ad6bb6d)# SQL-50-LeetCode
 Solutions for SQL 50 Study Plan LeetCode -<br>
 https://leetcode.com/studyplan/top-sql-50/
 
@@ -64,7 +64,34 @@ https://leetcode.com/problems/employee-bonus/description/?envType=study-plan-v2&
 1280. Students and Examinations<br>
 https://leetcode.com/problems/students-and-examinations/description/?envType=study-plan-v2&envId=top-sql-50
 
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/a962447e-0dbe-4965-a564-939f917072fe)
+
+570. Managers with at Least 5 Direct Reports<br>
+https://leetcode.com/problems/managers-with-at-least-5-direct-reports/description/?envType=study-plan-v2&envId=top-sql-50
+
+![image](https://github.com/user-attachments/assets/c2db7920-3d4c-4214-8997-55473f133184)
+
+1934. Confirmation Rate<br>
+https://leetcode.com/problems/confirmation-rate/description/?envType=study-plan-v2&envId=top-sql-50
+
+![image](https://github.com/user-attachments/assets/d3855dc2-e384-4d8f-985e-535eba4c0da8)
+
+--Basic Aggregate Functions--
+
+620. Not Boring Movies<br>
+https://leetcode.com/problems/not-boring-movies/description/?envType=study-plan-v2&envId=top-sql-50
+
+![image](https://github.com/user-attachments/assets/c78b4ef6-1d7f-41f1-b208-6d1dc8fee639)
+
+1251. Average Selling Price<br>
+https://leetcode.com/problems/average-selling-price/description/?envType=study-plan-v2&envId=top-sql-50
+
+![image](https://github.com/user-attachments/assets/8a413cc6-9407-4340-83f1-ce5c66a0e624)
+
+
+
+
+
 
 
 
