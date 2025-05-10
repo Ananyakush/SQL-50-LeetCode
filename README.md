@@ -39,4 +39,34 @@ https://leetcode.com/problems/replace-employee-id-with-the-unique-identifier/des
 1068. Product Sales Analysis I<br>
 https://leetcode.com/problems/product-sales-analysis-i/description/?envType=study-plan-v2&envId=top-sql-50
 
+![image](https://github.com/user-attachments/assets/e1752e99-71f9-40f1-a340-7c809f84ac39)
+
+1581. Customer Who Visited but Did Not Make Any Transactions<br>
+https://leetcode.com/problems/customer-who-visited-but-did-not-make-any-transactions/description/?envType=study-plan-v2&envId=top-sql-50
+
+![image](https://github.com/user-attachments/assets/d2fb9007-889a-42f8-b9f5-d007c9686d8c)
+
+197. Rising Temperature<br>
+https://leetcode.com/problems/rising-temperature/description/?envType=study-plan-v2&envId=top-sql-50
+
+![image](https://github.com/user-attachments/assets/a0150cac-3c30-44bc-8b66-2d1ceafb21f2)
+
+1661. Average Time of Process per Machine<br>
+https://leetcode.com/problems/average-time-of-process-per-machine/description/?envType=study-plan-v2&envId=top-sql-50
+
+![image](https://github.com/user-attachments/assets/35062001-4074-4f21-b27a-b8775a16eeba)
+
+577. Employee Bonus<br>
+https://leetcode.com/problems/employee-bonus/description/?envType=study-plan-v2&envId=top-sql-50
+
+![image](https://github.com/user-attachments/assets/5eea2943-1ea3-4f93-8848-7dbfb0d16acb)
+
+1280. Students and Examinations<br>
+https://leetcode.com/problems/students-and-examinations/description/?envType=study-plan-v2&envId=top-sql-50
+
 ![Uploading image.png…]()
+
+
+
+
+
