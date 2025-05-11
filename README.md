@@ -24,14 +24,14 @@ https://leetcode.com/problems/article-views-i/?envType=study-plan-v2&envId=top-s
 
 ![image](https://github.com/user-attachments/assets/caccc4d2-1e8c-44d1-b2d8-ec2fb30536fa)
 
-1683. Invalid Tweets
+1683. Invalid Tweets<br>
 https://leetcode.com/problems/invalid-tweets?envType=study-plan-v2&envId=top-sql-50
 
 ![image](https://github.com/user-attachments/assets/271d589a-20e1-4bba-a2ef-bc876ccbc4ea)
 
 --BASIC JOINS--
 
-1378. Replace Employee ID With The Unique Identifier<BR>
+1378. Replace Employee ID With The Unique Identifier<br>
 https://leetcode.com/problems/replace-employee-id-with-the-unique-identifier/description/?envType=study-plan-v2&envId=top-sql-50
 
 ![image](https://github.com/user-attachments/assets/70dd3d02-e2fa-483c-a95b-26285dfac2ff)
@@ -87,6 +87,26 @@ https://leetcode.com/problems/not-boring-movies/description/?envType=study-plan-
 https://leetcode.com/problems/average-selling-price/description/?envType=study-plan-v2&envId=top-sql-50
 
 ![image](https://github.com/user-attachments/assets/8a413cc6-9407-4340-83f1-ce5c66a0e624)
+
+1075. Project Employees I<br>
+https://leetcode.com/problems/project-employees-i/description/?envType=study-plan-v2&envId=top-sql-50
+
+![image](https://github.com/user-attachments/assets/e3d9d485-caba-4f74-bbaa-0b830042bbfb)
+
+1633. Percentage of Users Attended a Contest<br>
+https://leetcode.com/problems/percentage-of-users-attended-a-contest/description/?envType=study-plan-v2&envId=top-sql-50
+
+![image](https://github.com/user-attachments/assets/8a74c876-a618-4687-bd75-108a6b9c9abc)
+
+1211. Queries Quality and Percentage<br>
+https://leetcode.com/problems/queries-quality-and-percentage/description/?envType=study-plan-v2&envId=top-sql-50
+
+![image](https://github.com/user-attachments/assets/586b39c4-ba18-4477-8300-d5c09b173c8c)
+
+1193. Monthly Transactions I<br>
+https://leetcode.com/problems/monthly-transactions-i/description/?envType=study-plan-v2&envId=top-sql-50
+
+![image](https://github.com/user-attachments/assets/23d7d848-c60b-4f16-acde-39980141b8b0)
 
 
 
