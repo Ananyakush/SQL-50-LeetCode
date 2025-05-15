@@ -167,9 +167,25 @@ https://leetcode.com/problems/primary-department-for-each-employee/description/?
 
 ![image](https://github.com/user-attachments/assets/473871fb-a88d-40b3-bbb6-8ac34863e280)
 
-610. Triangle Judgement
+610. Triangle Judgement<br>
 https://leetcode.com/problems/triangle-judgement/submissions/1634269186/?envType=study-plan-v2&envId=top-sql-50
 
 ![image](https://github.com/user-attachments/assets/852a39cd-ee15-4f54-b2c3-37125341dc02)
+
+180. Consecutive Numbers<br>
+https://leetcode.com/problems/consecutive-numbers/description/?envType=study-plan-v2&envId=top-sql-50
+
+![image](https://github.com/user-attachments/assets/87f52201-4299-4143-8ae4-24bec0e51c1e)
+
+
+
+
+
+
+
+
+
+
+
 
 
