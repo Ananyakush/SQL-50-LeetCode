@@ -118,7 +118,8 @@ https://leetcode.com/problems/game-play-analysis-iv/description/?envType=study-p
 
 ![image](https://github.com/user-attachments/assets/08f5fb7a-79be-4bce-b796-676cf584573a)
 
---sorting and grouping--
+--sorting and grouping--<br>
+
 2356. Number of Unique Subjects Taught by Each Teacher<br>
 https://leetcode.com/problems/number-of-unique-subjects-taught-by-each-teacher/description/?envType=study-plan-v2&envId=top-sql-50
 
@@ -134,8 +135,41 @@ https://leetcode.com/problems/product-sales-analysis-iii/description/?envType=st
 
 ![image](https://github.com/user-attachments/assets/1c88b8ed-416c-4219-b698-83e7780cac8c)
 
+596. Classes More Than 5 Students<br>
+https://leetcode.com/problems/classes-more-than-5-students/description/?envType=study-plan-v2&envId=top-sql-50
 
+![image](https://github.com/user-attachments/assets/a2c55a7a-d339-45c9-9328-2ed2d176f375)
 
+1729. Find Followers Count<br>
+https://leetcode.com/problems/find-followers-count/description/?envType=study-plan-v2&envId=top-sql-50
 
+![image](https://github.com/user-attachments/assets/6e6fb350-fb26-4741-abf7-5472749315b2)
+
+619. Biggest Single Number<br>
+https://leetcode.com/problems/biggest-single-number/description/?envType=study-plan-v2&envId=top-sql-50
+
+![image](https://github.com/user-attachments/assets/b8666b91-7974-422d-b2d9-be9af3135cc5)
+
+1045. Customers Who Bought All Products<br>
+https://leetcode.com/problems/customers-who-bought-all-products/description/?envType=study-plan-v2&envId=top-sql-50
+
+--Advanced Select and Joins--
+
+![image](https://github.com/user-attachments/assets/271c7faa-f2d0-4a24-b8cb-2ec529242c25)
+
+1731. The Number of Employees Which Report to Each Employee<br>
+https://leetcode.com/problems/the-number-of-employees-which-report-to-each-employee/description/?envType=study-plan-v2&envId=top-sql-50
+
+![image](https://github.com/user-attachments/assets/9b5c900c-35d2-44e4-a326-0b99f2bde213)
+
+1789. Primary Department for Each Employee<br>
+https://leetcode.com/problems/primary-department-for-each-employee/description/?envType=study-plan-v2&envId=top-sql-50
+
+![image](https://github.com/user-attachments/assets/473871fb-a88d-40b3-bbb6-8ac34863e280)
+
+610. Triangle Judgement
+https://leetcode.com/problems/triangle-judgement/submissions/1634269186/?envType=study-plan-v2&envId=top-sql-50
+
+![image](https://github.com/user-attachments/assets/852a39cd-ee15-4f54-b2c3-37125341dc02)
 
 
