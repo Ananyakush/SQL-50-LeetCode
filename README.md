@@ -108,9 +108,31 @@ https://leetcode.com/problems/monthly-transactions-i/description/?envType=study-
 
 ![image](https://github.com/user-attachments/assets/23d7d848-c60b-4f16-acde-39980141b8b0)
 
+1174. Immediate Food Delivery II<br>
+https://leetcode.com/problems/immediate-food-delivery-ii/description/?envType=study-plan-v2&envId=top-sql-50
 
+![image](https://github.com/user-attachments/assets/0478be0d-19aa-4798-ba21-2055508fa6ff)
 
+550. Game Play Analysis IV<br>
+https://leetcode.com/problems/game-play-analysis-iv/description/?envType=study-plan-v2&envId=top-sql-50
 
+![image](https://github.com/user-attachments/assets/08f5fb7a-79be-4bce-b796-676cf584573a)
+
+--sorting and grouping--
+2356. Number of Unique Subjects Taught by Each Teacher<br>
+https://leetcode.com/problems/number-of-unique-subjects-taught-by-each-teacher/description/?envType=study-plan-v2&envId=top-sql-50
+
+![image](https://github.com/user-attachments/assets/077b9918-9274-4d13-9552-23e42f53c225)
+
+1141. User Activity for the Past 30 Days I<br>
+https://leetcode.com/problems/user-activity-for-the-past-30-days-i/description/?envType=study-plan-v2&envId=top-sql-50
+
+![image](https://github.com/user-attachments/assets/9d6133b5-38da-4042-94dc-a0e91342a48d)
+
+1070. Product Sales Analysis III<br>
+https://leetcode.com/problems/product-sales-analysis-iii/description/?envType=study-plan-v2&envId=top-sql-50
+
+![image](https://github.com/user-attachments/assets/1c88b8ed-416c-4219-b698-83e7780cac8c)
 
 
 
